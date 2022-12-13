@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace AutomationFramework.PageObjects
+namespace AutomationCode.PageObjects
 {
     class LoginPage : GeneralPage
     {

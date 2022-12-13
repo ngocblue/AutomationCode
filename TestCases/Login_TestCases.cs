@@ -1,10 +1,10 @@
-using AutomationFramework.PageObjects;
+using AutomationCode.PageObjects;
 using NUnit.Framework;
 using OpenQA.Selenium.Chrome;
 using System;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace AutomationFramework.TestCases
+namespace AutomationCode.TestCases
 {
     class Login
     {
