@@ -25,7 +25,7 @@ namespace AutomationFramework.TestCases
         [Test]
         public void LoginSuccess()
         {
-            /*This test case is written based on the assumtion that normally user has to go to Homepage, 
+            /*This test case is written based on the assumption that normally user has to go to Homepage, 
              * click to 'Login' link to go to Login Page then input email/password and login */
 
             homepage.Open();
